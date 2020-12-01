@@ -11,5 +11,5 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  title = 'LaunchCode University Course Schedule';
 }
