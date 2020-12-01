@@ -1,4 +1,4 @@
 export class Course {
-    constructor(public title: string, public code: string, public days:[], 
+    constructor(public title: string, public code: string, public days: string[], 
         public Starttime:string, public endTime: string, public credits: number){}
 }
